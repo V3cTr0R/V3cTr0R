@@ -56,11 +56,6 @@ Também me dedico ao estudo da Cibersegurança. Acredito firmemente que todo des
   <img src="https://streak-stats.demolab.com?user=V3cTr0R&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="170" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=V3cTr0R&show_icons=true&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="170" />
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/V3cTr0R">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/V3cTr0R">
-    <img alt="GitHub Snake" src="https://github.com/V3cTr0R">
-  </picture>
 </div>
 
 ---
