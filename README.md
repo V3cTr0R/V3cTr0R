@@ -56,11 +56,12 @@ Também me dedico ao estudo da Cibersegurança. Acredito firmemente que todo des
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-    <img alt="GitHub Contribution Snake" src="https://githubusercontent.com">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/V3cTr0R/V3cTr0R/refs/heads/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/V3cTr0R/V3cTr0R/refs/heads/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/V3cTr0R/V3cTr0R/refs/heads/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
 
 ---
 
