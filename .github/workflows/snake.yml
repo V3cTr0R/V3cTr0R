@@ -1,11 +1,10 @@
 name: Generate Snake
 
 on:
-  # Roda automaticamente a cada 24 horas
+
   schedule:
     - cron: "0 0 * * *" 
   
-  # Permite rodar manualmente a qualquer momento
   workflow_dispatch:
 
 permissions:
@@ -15,23 +14,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Gera o jogo da cobrinha a partir do gráfico de contribuições
       - name: generate-snake-game-from-github-contribution-grid
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ffffff&color_dots=#161b22,#4a0e10,#7a1519,#b81d24,#ff2e37
 
-      # Hackea o arquivo SVG para injetar os emojis na cabeça da cobra
-      - name: Customizar cabeça da cobra com estilo Darkness
-        run: |
-          sudo chmod -R 777 dist
-          sed -i 's/<circle class="snake-head"/<text class="snake-head" font-size="10" dy="8" dx="-2">💀<\/text><circle style="display:none" class="snake-head"/g' dist/github-contribution-grid-snake.svg
-          sed -i 's/<circle class="snake-head"/<text class="snake-head" font-size="10" dy="8" dx="-2">😈<\/text><circle style="display:none" class="snake-head"/g' dist/github-contribution-grid-snake-dark.svg
-
-      # Envia os arquivos gerados modificados para a branch 'output'
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
