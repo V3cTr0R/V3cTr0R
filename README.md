@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banner Minimalista DMC -->
-  <img src="./images/banners/wp6148078.png" alt="DMC Black and White Banner" width="100%">
+  <img src="./images/banners/BannerDMC1.jpg" alt="DMC Black and White Banner" width="100%">
 
   <p>
   <img src="https://readme-typing-svg.demolab.com?font=New+Rocker&size=30&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Olá!;Eu+sou+o+Jonhnes.;Futuro+Full-Stack+Developer;.NET+C%23+%7C+ASP.NET+Core+%7C+Angular+%7C+Postgresql;Estudante+Cibersegurança" alt="Typing SVG" />
@@ -50,18 +50,25 @@ Também me dedico ao estudo da Cibersegurança. Acredito firmemente que todo des
 </div>
 
 ---
-## 📊 RANKING DE CAÇADOR DE DEMÔNIOS
+### 📊 MINHAS ESTATÍSTICAS
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=V3cTr0R&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" height="170" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=V3cTr0R&show_icons=true&theme=dark&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" height="170" />
+</div>
 
+<div align="center">
+  <!-- Cobrinha que alterna automaticamente de acordo com o tema claro/escuro do usuário -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/V3cTr0R">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/V3cTr0R">
-    <img alt="GitHub Snake" src="https://github.com/V3cTr0R">
+    <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+    <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+    <img alt="GitHub Contribution Snake" src="https://githubusercontent.com">
   </picture>
 </div>
 
 ---
-<p align="center">Let's rock, baby!</p>
+
+<p align="center">
+  <!-- Mude para o BannerDMC2.jpg se for usar a imagem do rodapé que salvamos antes -->
+  <img src="./images/banners/BannerDMC2.jpg" alt="DMC Black and White Footer Banner" width="100%">
+</p>
