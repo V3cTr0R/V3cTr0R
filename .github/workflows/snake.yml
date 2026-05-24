@@ -27,6 +27,7 @@ jobs:
       # Hackea o arquivo SVG para injetar os emojis na cabeça da cobra
       - name: Customizar cabeça da cobra com estilo Darkness
         run: |
+          sudo chmod -R 777 dist
           sed -i 's/<circle class="snake-head"/<text class="snake-head" font-size="10" dy="8" dx="-2">💀<\/text><circle style="display:none" class="snake-head"/g' dist/github-contribution-grid-snake.svg
           sed -i 's/<circle class="snake-head"/<text class="snake-head" font-size="10" dy="8" dx="-2">😈<\/text><circle style="display:none" class="snake-head"/g' dist/github-contribution-grid-snake-dark.svg
 
