@@ -2,7 +2,7 @@
   <img src="./images/banners/BannerDMC1.jpg" alt="DMC Black and White Banner" width="100%">
 
   <p>
-<img src="https://readme-typing-svg.demolab.com?font=New+Rocker&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Ol%C3%A1!;Me+chamo+Jonhnes.;Futuro+Full-Stack+Developer;.NET+C%23+%7C+ASP.NET%2BCore+%7C+Angular+%7C+Postgresql;Estudante+de+Ciberseguran%C3%A7a" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=New+Rocker&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Ol%C3%A1!;Me+chamo+Jonhnes.;Full-Stack+Developer;.NET+C%23+%7C+ASP.NET%2BCore+%7C+Angular+%7C+Postgresql;Estudante+de+Ciberseguran%C3%A7a" alt="Typing SVG" />
   </p>
   <img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=%23FFFFFF&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjonhnes-monteiro-667ba5249%2F">
   <img alt="Static Badge" src="https://img.shields.io/badge/%20%20%20%20%20-000000?style=for-the-badge&logo=x&logoColor=%23FFFFFF&link=https%3A%2F%2Fx.com%2FJonhnesMonteiro">
