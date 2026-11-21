@@ -2,7 +2,7 @@
   <img src="./images/banners/BannerDMC1.jpg" alt="DMC Black and White Banner" width="100%">
 
   <p>
-<img src="https://readme-typing-svg.demolab.com?font=New+Rocker&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Ol%C3%A1!;Me+chamo+Jonhnes.;Full-Stack+Developer;.NET+C%23+%7C+ASP.NET%2BCore+%7C+Angular+%7C+Postgresql;Estudante+de+Ciberseguran%C3%A7a" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=New+Rocker&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Ol%C3%A1!;Me+chamo+Jonhnes.;Servidores;Infraestrutura+de+Redes;Estudante+de+Ciberseguran%C3%A7a" alt="Typing SVG" />
   </p>
   <img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=%23FFFFFF&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjonhnes-monteiro-667ba5249%2F">
   <img alt="Static Badge" src="https://img.shields.io/badge/%20%20%20%20%20-000000?style=for-the-badge&logo=x&logoColor=%23FFFFFF&link=https%3A%2F%2Fx.com%2FJonhnesMonteiro">
@@ -13,13 +13,11 @@
 
 ### 📜 UM POUCO SOBRE MIM
 
-Sou estudante do primeiro semestre de Ciência da Computação na UniAnchieta e um aprendiz apaixonado por tecnologia. Estou sempre disposto a dominar novas ferramentas e explorar diferentes áreas do conhecimento.
+Sou estudante do segundo semestre de Ciência da Computação na UniAnchieta e um aprendiz apaixonado por tecnologia. Estou sempre disposto a dominar novas ferramentas e explorar diferentes áreas do conhecimento.
 
-Além de aprender, adoro orientar e dar mentoria para quem está começando na área. Atualmente, foco meus estudos no Desenvolvimento Back-end com C# .NET, enquanto aprimoro minha base em Estruturas de Dados e Algoritmos.
+Atualmente, foco meus estudos no Infraestrutura em Nuvem pela Microsoft e Firewall Sophos pela Sophos Academy, além de aprender outras diversas ferramentas como Zabbix, Grafana, GLPI, MDT(Microsoft Deployment Toolkit), Proxmox, Hyper-V e entre outros.
 
-Também me dedico ao estudo da Cibersegurança. Acredito firmemente que todo desenvolvedor deve dominar os fundamentos de segurança para construir códigos robustos e protegidos contra ataques.
-
-> *""Até o diabo pode chorar quando perde um ente querido... ou quando o código não compila.""*
+Também me dedico ao estudo da Cibersegurança. Acredito firmemente que todo profissional de redes deve dominar os fundamentos de segurança para poder planejar e construir uma infra segura e protegidos contra ataques.
 
 ---
 
@@ -34,6 +32,7 @@ Também me dedico ao estudo da Cibersegurança. Acredito firmemente que todo des
   <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=ffffff">
   <img alt="Static Badge" src="https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=ffffff">
   <img alt="Static Badge" src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=debian&logoColor=ffffff">
+  
 </div>
 
 ---
